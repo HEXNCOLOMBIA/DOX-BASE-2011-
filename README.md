@@ -2,7 +2,8 @@
   <img src="https://github.com/HEXNCOLOMBIA/DOX-BASE-2011-/blob/main/assets/logo.jpg" width="500">
 </p>
 
-# ORC – Dox v1
+# ORC – Dox v1 si hay erroes visita el canal de telegram o elimina el repositorio clonado y insala denuevo
+
 
 **Por HEXN | República de Colombia**
 
