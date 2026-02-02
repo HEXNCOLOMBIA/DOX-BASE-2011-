@@ -47,12 +47,14 @@ Todo se ejecuta **localmente desde la terminal**, priorizando:
 git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
 cd DOX-BASE-2011-
 python orc.py
+
 📱 Termux (Android)
 pkg update -y
 pkg install python git -y
 git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
 cd DOX-BASE-2011-
 python orc_.py
+---
 🧭 Uso
 Al iniciar el sistema aparecerá un menú en consola:
 
