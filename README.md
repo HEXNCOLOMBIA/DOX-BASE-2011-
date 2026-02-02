@@ -46,7 +46,8 @@ Todo se ejecuta **localmente desde la terminal**, priorizando:
 ```bash
 git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
 cd DOX-BASE-2011-
-python orc.py
+python orc.py```
+
 📱 Termux (Android)
 pkg update -y
 pkg install python git -y
