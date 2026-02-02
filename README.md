@@ -42,13 +42,13 @@ Todo se ejecuta **localmente desde la terminal**, priorizando velocidad, clarida
 ### 🖥️ Windows / Linux
 ```bash
 git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
-cd MODULO-DOX-COLOMBIA
+cd DOX-BASE-2011-
 python orc.py
 📱 Termux (Android)
 pkg update -y
 pkg install python git -y
 git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
-cd MODULO-DOX-COLOMBIA
+cd DOX-BASE-2011-
 python orc_.py
 🧭 Uso
 Al iniciar el sistema aparecerá un menú en consola:
