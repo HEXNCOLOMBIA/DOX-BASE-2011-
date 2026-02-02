@@ -81,4 +81,4 @@ Organización de Investigación
 
 ### GitHub: https://github.com/HEXNCOLOMBIA
 
-<p align="center"> <b>☠️ ORC SYSTEM ☠️</b><br> <b>CONTROL · INFORMACIÓN · ANÁLISIS</b> </p> ```
+<p align="center"> <b>☠️ ORC SYSTEM ☠️</b><br> <b>CONTROL · INFORMACIÓN · ANÁLISIS</b> </p>
