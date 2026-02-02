@@ -53,14 +53,14 @@ pkg install python git -y
 git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
 cd DOX-BASE-2011-
 python orc_.py
-🧭 Uso
+###🧭 Uso
 Al iniciar el sistema aparecerá un menú en consola:
 
 1 → Consulta por Cédula
 0 → Salir
 El sistema solicitará el dato correspondiente y mostrará el resultado completo en pantalla.
 
-📊 Resultados
+### 📊 Resultados
 Los datos se muestran en un solo bloque
 
 Campos vacíos se marcan como NO DISPONIBLE
@@ -69,15 +69,15 @@ Los campos faltantes se listan al final
 
 Se indica si la consulta fue exitosa ✅
 
-⚠️ Aviso Legal
+###⚠️ Aviso Legal
 Este proyecto es únicamente con fines educativos.
 El autor NO se hace responsable del uso indebido.
 No se almacena información: todo se ejecuta de forma local.
 
-👨‍💻 Autor
+### 👨‍💻 Autor
 HEXN – ORC
 Organización de Investigación
 
-GitHub: https://github.com/HEXNCOLOMBIA
+### GitHub: https://github.com/HEXNCOLOMBIA
 
 <p align="center"> <b>☠️ ORC SYSTEM ☠️</b><br> <b>CONTROL · INFORMACIÓN · ANÁLISIS</b> </p> ```
