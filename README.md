@@ -5,17 +5,20 @@
 <h1 align="center">🕷️ ORC – Dox Sistema v1 🕷️</h1>
 
 <h3 align="center">
-Por <b>HEXN</b> | República de 🇨🇴
+Por <b>HEXN</b> | República de Colombia 🇨🇴
 </h3>
 
 ---
 
 ## 🧠 Descripción
 
-**ORC** es un sistema de consultas por terminal desarrollado en **Python**, con una interfaz  **consola**.  
+**ORC** es un sistema de consultas por terminal desarrollado en **Python**, con una interfaz estilo **consola**.  
 Está diseñado para ejecutarse de forma **simple, clara y directa**, sin configuraciones complejas ni pasos innecesarios.
 
-Todo se ejecuta **localmente desde la terminal**, priorizando velocidad, claridad y control total del usuario.
+Todo se ejecuta **localmente desde la terminal**, priorizando:
+- ⚡ Velocidad  
+- 🧠 Claridad  
+- 🎯 Control total del usuario  
 
 ---
 
@@ -24,9 +27,9 @@ Todo se ejecuta **localmente desde la terminal**, priorizando velocidad, clarida
 ### 🔧 Interfaz
 - Menú interactivo en consola
 - Consulta por **Cédula**
-- Resultados mostrados en un solo bloque
+- Resultados mostrados en **un solo bloque**
 - Detección automática de datos faltantes
-- Colores en consola
+- Colores en consola (estilo hacker)
 - Compatible con **PC y Termux (Android)**
 
 ---
@@ -74,6 +77,7 @@ No se almacena información: todo se ejecuta de forma local.
 👨‍💻 Autor
 HEXN – ORC
 Organización de Investigación
+
 GitHub: https://github.com/HEXNCOLOMBIA
 
 <p align="center"> <b>☠️ ORC SYSTEM ☠️</b><br> <b>CONTROL · INFORMACIÓN · ANÁLISIS</b> </p> ```
