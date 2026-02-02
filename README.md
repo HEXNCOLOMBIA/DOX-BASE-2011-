@@ -6,7 +6,7 @@
 
 **Por HEXN | República de Colombia**
 
-ORC es un sistema de consultas por terminal desarrollado en **Python**, con una interfaz estilo consola. Está diseñado para ejecutarse de forma simple, clara y directa desde la terminal, sin configuraciones complejas.
+ORC es un sistema de consultas por terminal desarrollado en **Python**, con una interfazu consola. Está diseñado para ejecutarse de forma simple, clara y directa desde la terminal, sin configuraciones complejas.
 
 ---
 
