@@ -58,7 +58,6 @@ Al iniciar el sistema aparecerá un menú en consola:
 
 ```
 1 → Consulta por Cédula
-2 → Consulta por Placa
 0 → Salir
 ```
 
@@ -77,7 +76,7 @@ El sistema pedirá el dato correspondiente y mostrará el resultado completo en 
 
 ## ⚠️ Aviso
 
-Este proyecto es únicamente con fines **educativos**. El autor no se hace responsable del uso indebido. No se almacena información: todo se ejecuta localmente.
+Este proyecto es únicamente con fines **De investigacion **. El autor no se hace responsable del uso indebido. No se almacena información: todo se ejecuta localmente.
 
 ---
 
