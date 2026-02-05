@@ -2,8 +2,7 @@
   <img src="https://github.com/HEXNCOLOMBIA/DOX-BASE-2011-/blob/main/assets/logo.jpg" width="500">
 </p>
 
-# ORC – Dox v1 si hay erroes visita el canal de telegram o elimina el repositorio clonado y insala denuevo
-
+# ORC – Dox v1 si exste errores usa git pull
 
 **Por HEXN | República de Colombia**
 
@@ -48,6 +47,12 @@ pkg update -y
 pkg install python git -y
 git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
 cd DOX-BASE-2011-
+python orc_.py
+```
+**actualizar repo*
+
+```bash
+git pull
 python orc_.py
 ```
 
