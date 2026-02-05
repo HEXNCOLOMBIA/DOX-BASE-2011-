@@ -37,7 +37,7 @@ ORC es un sistema de consultas por terminal desarrollado en **Python**, con una 
 ```bash
 git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
 cd DOX-BASE-2011-
-python orc_.py
+python orc.py
 ```
 
 **Termux (Android)**
@@ -47,9 +47,9 @@ pkg update -y
 pkg install python git -y
 git clone https://github.com/HEXNCOLOMBIA/MODULO-DOX-COLOMBIA.git
 cd DOX-BASE-2011-
-python orc_.py
+python orc.py
 ```
-**actualizar repo*
+**actualizar repo en caso de errores o actualizaciones**
 
 ```bash
 git pull
